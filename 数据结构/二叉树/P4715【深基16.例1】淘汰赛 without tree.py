@@ -14,6 +14,9 @@ def findSecond(a,n1):
     return c
 
 Second=min(findSecond(a,n1))
-print(a.index(Second))
+print(a.index(Second)+1)    # 返回索引，要位置，所以+1
 
+'''
+AC
+'''
 
