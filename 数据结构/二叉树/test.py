@@ -1,7 +1,10 @@
-a={1,2,3,4}
-b={3,4}
-c={1,2,5}
-print(set.union(c,b,a))
+nodes={1:2,2:3}
+i=3
+if i in nodes:
+    print('True')
+else:
+    print('False')
+
 '''
 12346789
 123456789
