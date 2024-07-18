@@ -8,7 +8,7 @@ def dfs(a,x,y,c,d):
     #    不能超出矩阵范围              不能是已经填色的   不能是墙     
     if 0<=x<=c+1 and 0<=y<=d+1 and a[y][x]!='1' and a[y][x]!='*': #(用‘0’包裹了，相当于加了两行两列，故从c-1变为c+1)
         a[y][x]='1'
-        dfs(a,x+1,y,c,d)    # 顺序不能反
+        dfs(a,x+1,y,c,d)    # 顺序不能反，看见样例不按照自己的设定方向前进要反应出参数传入顺序是不是有问题。
         dfs(a,x,y+1,c,d)
         dfs(a,x-1,y,c,d)
         dfs(a,x,y-1,c,d)
@@ -30,3 +30,6 @@ for i in range(x):
         if a[i][j]=='0':
             ans+=1
 print(ans)
+
+# AC   https://www.luogu.com.cn/record/166544245
+# 未改进代码详见 https://www.luogu.com.cn/record/166505087
