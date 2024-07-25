@@ -1,4 +1,5 @@
 # https://www.luogu.com.cn/problem/P2036
+# 这确实是组合类问题，但该算法可能会重复，不适用于组合类技术问题
 def dfs(x,multipleS,sumB):
     global n,a,minn
     if x>=n:
