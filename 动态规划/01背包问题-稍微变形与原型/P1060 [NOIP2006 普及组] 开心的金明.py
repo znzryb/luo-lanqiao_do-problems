@@ -12,3 +12,5 @@ for i in range(n_item):
         if curr_money >= item_price:
             dp[curr_money]=max(dp[curr_money],dp[curr_money-item_price]+item_impls*item_price)
 print(dp[-1])
+
+# AC https://www.luogu.com.cn/record/168292395
