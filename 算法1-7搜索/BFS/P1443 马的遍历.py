@@ -9,19 +9,25 @@
 # 0    3    2    
 # 3    -1   1    
 # 2    1    4
-def bfs(a,sx,sy,x_,y_,vis,dir=dir):
-    for i in range():
-        
-    # while 
-    # queue=[[sx,sy]]
-    # if 0<=sy<=y_-1 and 0<=sx<=x_-1 and not vis[sy][sx]:
-    #     for 
+from collections import deque
 
-dir=([2,1],[-2,1],[2,-1],[-2,-1],[1,2],[-1,-2],[-1,2],[1,-2])
-x_,y_,sx,sy=map(int,input().strip().split())    
-a=[]
-for i in range(y_):
-    a.append([-1]*x_)
-a[sy-1][sx-1]=0
-vis=[[False]*x_ for _ in range(y_)]
+y_,x_,y,x=map(int,input().split())
 
+maze=[['-1']*x_ for _ in range(y_)]   # 初始化棋盘
+
+x,y=x-1,y-1
+maze[y][x]='0'
+direction=[(1,2),(1,-2),(-1,2),(-1,-2),(2,1),(2,-1),(-2,1),(-2,-1)]
+q=deque([(x,y,0)])
+while q:
+    x0,y0,d=q.popleft()
+    for dx,dy in direction:
+        nx,ny=x0+dx,y0+dy
+        if (0<=nx and nx<x_) and (ny>=0 and ny<y_):
+            if maze[ny][nx]=='-1':
+                q.append((nx,ny,d+1))
+                maze[ny][nx]='{}'.format(d+1)
+for i in maze:
+    print(' '.join(i))
+
+# AC https://www.luogu.com.cn/record/169297563

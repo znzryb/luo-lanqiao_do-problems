@@ -1,4 +1,4 @@
-# 思路其实就是
+# 思路其实就是贪心，就看1前面有几个0
 # 【牛客周赛53题目讲解】 https://www.bilibili.com/video/BV1Gw4m1k7xc
 n=int(input())
 s=input()
