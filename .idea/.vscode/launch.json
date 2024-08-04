@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug in terminal",
-            "program": "${relativeFileDirname}/${fileBasenameNoExtension}",
+            "program": "${workspaceFolder}/${fileBasenameNoExtension}",
             "args": [],
             "cwd": "${workspaceFolder}"
         },

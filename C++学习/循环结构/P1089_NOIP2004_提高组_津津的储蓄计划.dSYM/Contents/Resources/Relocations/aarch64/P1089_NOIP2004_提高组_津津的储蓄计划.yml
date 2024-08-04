@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/循环结构/P1089_NOIP2004_提高组_津津的储蓄计划"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CEC, symSize: 0x280 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _a, symObjAddr: 0x5A7C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _summ_remain, symObjAddr: 0x5A80, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x70, offset: 0x70, size: 0x8, addend: 0x0, symName: _remain, symObjAddr: 0x5A84, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _summ_in, symObjAddr: 0x5A88, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offsetInCU: 0x9A, offset: 0x9A, size: 0x8, addend: 0x0, symName: _as, symObjAddr: 0x5A8C, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0x2E69, offset: 0x2E69, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CEC, symSize: 0x280 }
+...
