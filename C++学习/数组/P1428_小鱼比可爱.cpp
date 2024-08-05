@@ -19,7 +19,7 @@ int main(){
     }
     for (int i=0;i<n;i++) cout<<ans[i]<<" ";
 }
-AC https://www.luogu.com.cn/record/170028208
+// AC https://www.luogu.com.cn/record/170028208
 
 
 // #include <iostream>

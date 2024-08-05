@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1427_reverse_output/cmake-build-debug/CMakeFiles/P1427_reverse_output.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1427_reverse_output/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1427_reverse_output/cmake-build-debug/CMakeFiles/rebuild_cache.dir
