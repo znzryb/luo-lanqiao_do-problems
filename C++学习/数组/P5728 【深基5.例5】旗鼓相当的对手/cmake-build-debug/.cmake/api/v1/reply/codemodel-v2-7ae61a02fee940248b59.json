@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P5728_5_5",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P5728_5_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5728_5_5-Debug-24e2ea0a5a6bf333ed2c.json",
+					"name" : "P5728_5_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60/\u6570\u7ec4/P5728 \u3010\u6df1\u57fa5.\u4f8b5\u3011\u65d7\u9f13\u76f8\u5f53\u7684\u5bf9\u624b/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60/\u6570\u7ec4/P5728 \u3010\u6df1\u57fa5.\u4f8b5\u3011\u65d7\u9f13\u76f8\u5f53\u7684\u5bf9\u624b"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

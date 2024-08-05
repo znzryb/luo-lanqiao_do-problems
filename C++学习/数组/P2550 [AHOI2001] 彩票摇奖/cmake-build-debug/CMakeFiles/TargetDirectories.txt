@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P2550 [AHOI2001] 彩票摇奖/cmake-build-debug/CMakeFiles/P2550__AHOI2001__.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P2550 [AHOI2001] 彩票摇奖/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P2550 [AHOI2001] 彩票摇奖/cmake-build-debug/CMakeFiles/rebuild_cache.dir

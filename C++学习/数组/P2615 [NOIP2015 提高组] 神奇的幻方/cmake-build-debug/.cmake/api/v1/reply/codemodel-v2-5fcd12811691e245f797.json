@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2615__NOIP2015___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2615__NOIP2015___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2615__NOIP2015___-Debug-402bfd2b907a08e85aa2.json",
+					"name" : "P2615__NOIP2015___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60/\u6570\u7ec4/P2615 [NOIP2015 \u63d0\u9ad8\u7ec4] \u795e\u5947\u7684\u5e7b\u65b9/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60/\u6570\u7ec4/P2615 [NOIP2015 \u63d0\u9ad8\u7ec4] \u795e\u5947\u7684\u5e7b\u65b9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

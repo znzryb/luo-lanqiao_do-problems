@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1047 [NOIP2005 普及组] 校门外的树/cmake-build-debug/CMakeFiles/P1047__NOIP2005___.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1047 [NOIP2005 普及组] 校门外的树/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++学习/数组/P1047 [NOIP2005 普及组] 校门外的树/cmake-build-debug/CMakeFiles/rebuild_cache.dir
