@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1093__NOIP2007____",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1093__NOIP2007____::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1093__NOIP2007____-Debug-6c835ae78663c6526135.json",
+					"name" : "P1093__NOIP2007____",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_2_\u6392\u5e8f\u7b97\u6cd5/P1093 [NOIP2007 \u666e\u53ca\u7ec4] \u5956\u5b66\u91d1_\u7ed3\u6784\u5316\u6392\u5e8f/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_2_\u6392\u5e8f\u7b97\u6cd5/P1093 [NOIP2007 \u666e\u53ca\u7ec4] \u5956\u5b66\u91d1_\u7ed3\u6784\u5316\u6392\u5e8f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/cmake-build-debug/CMakeFiles/P1068__NOIP2009____.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
