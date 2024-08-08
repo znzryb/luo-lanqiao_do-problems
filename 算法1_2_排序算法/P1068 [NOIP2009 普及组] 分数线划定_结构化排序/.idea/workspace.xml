@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P1068__NOIP2009____" targetName="P1068__NOIP2009____" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8b51ae4-47ee-4ecc-bb43-752581836a1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/P1116_车厢重组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1116_车厢重组/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/P5143 攀爬者_结构化排序_欧几里得距离.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5143 攀爬者_结构化排序_欧几里得距离/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/cache-v2-740b5637d97b08a437fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-75ebc8becb2fb2a01425.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f177a6f18ca26fbe6e28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T07-11-14-0684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/target-P1601_A_B_Problem-Debug-5d0a865988c5823b38bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++学习/数组/P1205 [USACO1.2] 方块转换 Transformations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++学习/数组/P1205 [USACO1.2] 方块转换 Transformations/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2kJQJzikPYNJsVFClYzp6Lf4M45" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.P1068__NOIP2009____.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1068__NOIP2009____" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P1068__NOIP2009____" TARGET_NAME="P1068__NOIP2009____" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P1068__NOIP2009____" RUN_TARGET_NAME="P1068__NOIP2009____">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b51ae4-47ee-4ecc-bb43-752581836a1a" name="Changes" comment="" />
+      <created>1722999131798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722999131798</updated>
+      <workItem from="1722999133260" duration="3500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="m_in" language="C++" />
+        <watch expression="cnt" language="C++" />
+        <watch expression="a[m_in].score" language="C++" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

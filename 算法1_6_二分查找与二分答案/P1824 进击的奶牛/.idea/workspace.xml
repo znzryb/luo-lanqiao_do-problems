@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P1824_" targetName="P1824_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df0dd59b-a15c-47c0-8d1f-95fa9e974e0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/P1068 [NOIP2009 普及组] 分数线划定_结构化排序.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1068 [NOIP2009 普及组] 分数线划定_结构化排序/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/P1093 [NOIP2007 普及组] 奖学金_结构化排序.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1093 [NOIP2007 普及组] 奖学金_结构化排序/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/P1104 生日_结构化排序.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1104 生日_结构化排序/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/P1116_车厢重组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1116_车厢重组/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/P1271 计数排序【深基9.例1】选举学生会.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P1271 计数排序【深基9.例1】选举学生会/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/P5143 攀爬者_结构化排序_欧几里得距离.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/P5143 攀爬者_结构化排序_欧几里得距离/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法1_2_排序算法/结构化排序_sort函数test/.idea/结构化排序_sort函数test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/ABC365补题CTransportation Expenses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1e0950ab91f38c446f34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7947c7124ce3db36ee38.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6b40b5539ddb55cb526c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-08T02-28-53-0899.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/target-ABC365CTransportation_Expenses-Debug-faf1a967c36cb495bf1d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC365补题CTransportation Expenses/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/P1678 烦恼的高考志愿.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0a0baca96e08ed884104.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-902cf4ea11fc222bb2e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-26520b691e388889ec06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T07-35-11-0378.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/target-P1678_-Debug-abb95bdec91b9a94499b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/P1678_.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/P1678_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/lower_bound_upper_bound" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1678 烦恼的高考志愿/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/P1824 进击的奶牛.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2e73424f3387d4b1d64c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a8da07a4efd438e8f3f3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-647a071a4bb91cd5ecee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-08T01-48-40-0978.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-P1824_-Debug-8bb002ec194f73668949.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/P1824_.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/P1824_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/P1873 [COCI 20112012 #5] EKO  砍树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1539b60c0e30e535c617.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6cd02c01afea5f631c82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-26178ded93b1ed6c988b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T13-41-40-0286.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/target-P1873__COCI_2011_2012__5__EKO___-Debug-9f3446ae95f3007d6175.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/P1873__COCI_2011_2012__5__EKO___.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/P1873__COCI_2011_2012__5__EKO___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1873 [COCI 2011:2012 #5] EKO : 砍树/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/.idea/搬走要石_蓝桥杯.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b338cda13d0de7135901.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1e900a7ffae2f087a1bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d2dc5a6ccefee7391b75.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T12-22-23-0450.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/target-_-Debug-d29d171588d2d4667b21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../搬走要石_蓝桥杯/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/P1601 A+B Problem C++11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fda0570888fcd77a614d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7f22155a7803d2222a59.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-edc3c154d1bf4f443dc7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T07-32-04-0316.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/target-P1601_A_B_Problem_C__11-Debug-0391dba69d455f3efd86.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem C++11/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/P1601 A+B Problem（高精）.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/cache-v2-740b5637d97b08a437fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-75ebc8becb2fb2a01425.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f177a6f18ca26fbe6e28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-07T07-11-14-0684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/target-P1601_A_B_Problem-Debug-5d0a865988c5823b38bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/P1601_A_B_Problem.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/P1601_A_B_Problem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../高精度C++/P1601 A+B Problem（高精）/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++学习/数组/P1205 [USACO1.2] 方块转换 Transformations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++学习/数组/P1205 [USACO1.2] 方块转换 Transformations/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2kM7iQO3NLeIQ8VeDg3MH3ICLlt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "CMake Application.P1824_.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1824_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P1824_" TARGET_NAME="P1824_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P1824_" RUN_TARGET_NAME="P1824_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0dd59b-a15c-47c0-8d1f-95fa9e974e0a" name="Changes" comment="" />
+      <created>1723081718243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723081718243</updated>
+      <workItem from="1723081719580" duration="2442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
