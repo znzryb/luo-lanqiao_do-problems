@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/字符串-入门/UVA-10082-WERTYU/cmake-build-debug/CMakeFiles/UVA_10082_WERTYU.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/字符串-入门/UVA-10082-WERTYU/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/字符串-入门/UVA-10082-WERTYU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

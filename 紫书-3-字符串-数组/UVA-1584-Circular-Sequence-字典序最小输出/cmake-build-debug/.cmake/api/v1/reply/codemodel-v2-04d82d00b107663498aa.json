@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UVA_1584_Circular_Sequence_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UVA_1584_Circular_Sequence_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UVA_1584_Circular_Sequence_-Debug-85a163507595408f7240.json",
+					"name" : "UVA_1584_Circular_Sequence_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7d2b\u4e66-3-\u5b57\u7b26\u4e32-\u6570\u7ec4/UVA-1584-Circular-Sequence-\u5b57\u5178\u5e8f\u6700\u5c0f\u8f93\u51fa/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7d2b\u4e66-3-\u5b57\u7b26\u4e32-\u6570\u7ec4/UVA-1584-Circular-Sequence-\u5b57\u5178\u5e8f\u6700\u5c0f\u8f93\u51fa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
