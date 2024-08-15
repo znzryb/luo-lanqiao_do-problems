@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P3853__TJOI2007__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P3853__TJOI2007__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3853__TJOI2007__-Debug-50f96619f9515b72f62c.json",
+					"name" : "P3853__TJOI2007__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P3853 [TJOI2007] \u8def\u6807\u8bbe\u7f6e/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P3853 [TJOI2007] \u8def\u6807\u8bbe\u7f6e"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

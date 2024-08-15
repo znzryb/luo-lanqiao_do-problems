@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1219__USACO1_5___Checker_Challenge",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1219__USACO1_5___Checker_Challenge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1219__USACO1_5___Checker_Challenge-Debug-053e3cde3022a702e971.json",
+					"name" : "P1219__USACO1_5___Checker_Challenge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60-\u6df1\u57fa\u5165\u95e8/P1219 [USACO1.5] \u516b\u7687\u540e Checker Challenge/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/C++\u5b66\u4e60-\u6df1\u57fa\u5165\u95e8/P1219 [USACO1.5] \u516b\u7687\u540e Checker Challenge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

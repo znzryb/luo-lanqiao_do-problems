@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P8647___2017__AB__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P8647___2017__AB__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P8647___2017__AB__-Debug-b36f900ba15d7b10ec55.json",
+					"name" : "P8647___2017__AB__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P8647 [\u84dd\u6865\u676f 2017 \u7701 AB] \u5206\u5de7\u514b\u529b/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P8647 [\u84dd\u6865\u676f 2017 \u7701 AB] \u5206\u5de7\u514b\u529b"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

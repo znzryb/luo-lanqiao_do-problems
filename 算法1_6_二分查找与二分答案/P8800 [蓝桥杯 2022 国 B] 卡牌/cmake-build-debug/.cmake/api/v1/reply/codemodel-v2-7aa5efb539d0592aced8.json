@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P8800___2022__B__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P8800___2022__B__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P8800___2022__B__-Debug-396c600a3c709a4d4798.json",
+					"name" : "P8800___2022__B__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P8800 [\u84dd\u6865\u676f 2022 \u56fd B] \u5361\u724c/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_6_\u4e8c\u5206\u67e5\u627e\u4e0e\u4e8c\u5206\u7b54\u6848/P8800 [\u84dd\u6865\u676f 2022 \u56fd B] \u5361\u724c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

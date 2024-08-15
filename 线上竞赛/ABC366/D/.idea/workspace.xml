@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="D" targetName="D" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41afac25-352b-49bd-9c44-775de834a57e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P1048 [NOIP2005 普及组] 采药.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P1049-变形-[NOIP2001 普及组] 装箱问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P1060 [NOIP2006 普及组] 开心的金明.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P1164-小A点菜.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P1510 精卫填海.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P2639 [USACO09OCT] Bessie's Weight Problem G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P2871-一维滚动数组优化-[USACO07DEC] Charm Bracelet S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P2871-二维数组-[USACO07DEC] Charm Bracelet S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/P2925 [USACO08DEC] Hay For Sale S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题-稍微变形与原型/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/D-小红组比赛.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P1466-USACO2.2-两子集合和相等-暴力.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P1466-种类-USACO2.2-两子集合和相等.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P1734 最大约数和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P1802 5 倍经验日.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P1926 小书童-刷题大军.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/01背包问题变形/P2370-排序-yyy2015c01的U盘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/线性动态规划/P1020-NOIP1999-提高组-导弹拦截.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/线性动态规划/P1077-NOIP2012-普及组-摆花.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/线性动态规划/P1095-dp-NOIP2007-普及组-守望者的逃离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/动态规划/线性动态规划/P1216-USACO1.5-数字三角形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1030 求先序排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1305-new_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1305-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1305-variant-search_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1364 医院设置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P1827  求后序排列 American Heritage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P4715【深基16.例1】淘汰赛 without tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P4913 【深基16.例3】二叉树深度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/P4913-debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/二叉树/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/线性表/B3616 【模板】队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/线性表/P1090 [NOIP2004 提高组] 合并果子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/线性表/P1540 [NOIP2010 提高组] 机器翻译.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/线性表/P2058 优先队列[NOIP2016 普及组] 海港 copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/数据结构/线性表/P2058 非正解[NOIP2016 普及组] 海港.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/B3622 枚举子集（递归实现指数型枚举）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/B3623 枚举排列（递归实现排列型枚举）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/P1002 [NOIP2002 普及组] 过河卒.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/P1028 [NOIP2001 普及组] 数的计算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/P1028-递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-4递归/P1255 数楼梯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/209-翻硬币.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/P1094 [NOIP2007 普及组] 纪念品分组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/P1199 [NOIP2010 普及组] 三国游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/P1208 [USACO1.3] 混合牛奶 Mixing Milk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/P4995 跳跳！.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-5贪心/P8739 重复字符串[蓝桥杯 2020 国 C].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/1926-迷宫中离入口最近的出口-leetcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/P1332-血色先锋队-多点瘟疫扩散.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/P1443 马的遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/P1746 离开中山路.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/牛客竞赛-round53-F-失去一种方向穿墙-vis优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/BFS/牛客竞赛-round53-F-失去一种方向穿墙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/寻路问题/深さ優先探索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/排列类题目/老子的全排列那.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/搜索回溯/B3622 枚举子集（递归实现指数型枚举）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/搜索回溯/P2392kkksc03考前临时抱佛脚.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/染色题-洪水题/P1162 [染色法][DFS]填涂颜色.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/染色题-洪水题/P1506 [染色法][DFS][改进]拯救oibh总部.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/染色题-洪水题/P1506_1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/染色题-洪水题/P1506_1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/B3624-combinations-猫粮规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/B3624-dfs-猫粮规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/B3624-全WA-猫粮规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/P1135-奇怪的电梯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/P1157-itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P1460-USACO2.1健康的荷斯坦奶牛.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P1460-dfs-USACO2.1健康的荷斯坦奶牛 copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P2036-可重复遍历组合问题-COCI2008-2009-2-PERKET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/连通块题/CF690D1The Wall (easy).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/连通块题/CF690D1[栈][DFS]The Wall (easy).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/连通块题/P1451-栈优化-求细胞数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/连通块题/P1596 [USACO10OCT][DFS] Lake Counting S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python学习/算法1-7搜索/DFS_/连通块题/P1596-栈优化-Lake_Counting_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/UVA-227-Puzzle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/cache-v2-651873fc75e9ce65ba00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cf9a154e1ea20d4afd8b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2586ae732498d5b9dd6b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-10T11-43-52-0884.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/target-A-Debug-7bd1c3ab437829024281.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/A.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/cache-v2-afd5063f15e892debb5b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-bc6f38766a2a9e92859b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a6f6de94f9d2b0836e14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-10T13-29-56-0802.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/target-B-Debug-19cb9b86d4d06d9b4e60.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/B.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/B.dir/vertical_output.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/vertical_output.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/cache-v2-da5330c41f84cf9629f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ec447c14f5444958642c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b8f7f4b913dd90e8115e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-10T11-45-14-0128.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/target-C-Debug-d6adb51c26ad775a6bae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-66e83f75e8969c274225.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c6a1f626ffb00432124a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a344fd6a7a2e14d1d950.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-10T11-45-53-0048.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-D-Debug-5731c6b095f0eb718481.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P1048 [NOIP2005 普及组] 采药.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P1049-变形-[NOIP2001 普及组] 装箱问题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P1060 [NOIP2006 普及组] 开心的金明.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P1164-小A点菜.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P1510 精卫填海.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P2639 [USACO09OCT] Bessie's Weight Problem G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P2871-一维滚动数组优化-[USACO07DEC] Charm Bracelet S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P2871-二维数组-[USACO07DEC] Charm Bracelet S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/P2925 [USACO08DEC] Hay For Sale S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题-稍微变形与原型/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/D-小红组比赛.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P1466-USACO2.2-两子集合和相等-暴力.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P1466-种类-USACO2.2-两子集合和相等.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P1734 最大约数和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P1802 5 倍经验日.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P1926 小书童-刷题大军.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/01背包问题变形/P2370-排序-yyy2015c01的U盘.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/线性动态规划/P1020-NOIP1999-提高组-导弹拦截.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/线性动态规划/P1077-NOIP2012-普及组-摆花.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/线性动态规划/P1095-dp-NOIP2007-普及组-守望者的逃离.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../动态规划/线性动态规划/P1216-USACO1.5-数字三角形.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/UVA-227-Puzzle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../字符串-入门/UVA-227-Puzzle/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1030 求先序排列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1305-new_binary_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1305-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1305-variant-search_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1364 医院设置.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P1827  求后序排列 American Heritage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P4715【深基16.例1】淘汰赛 without tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P4913 【深基16.例3】二叉树深度.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/P4913-debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/二叉树/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/线性表/B3616 【模板】队列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/线性表/P1090 [NOIP2004 提高组] 合并果子.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/线性表/P1540 [NOIP2010 提高组] 机器翻译.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/线性表/P2058 优先队列[NOIP2016 普及组] 海港 copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/线性表/P2058 非正解[NOIP2016 普及组] 海港.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/B3622 枚举子集（递归实现指数型枚举）.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/B3623 枚举排列（递归实现排列型枚举）.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/P1002 [NOIP2002 普及组] 过河卒.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/P1028 [NOIP2001 普及组] 数的计算.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/P1028-递归.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-4递归/P1255 数楼梯.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/209-翻硬币.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/P1094 [NOIP2007 普及组] 纪念品分组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/P1199 [NOIP2010 普及组] 三国游戏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/P1208 [USACO1.3] 混合牛奶 Mixing Milk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/P4995 跳跳！.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-5贪心/P8739 重复字符串[蓝桥杯 2020 国 C].py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/1926-迷宫中离入口最近的出口-leetcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/P1332-血色先锋队-多点瘟疫扩散.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/P1443 马的遍历.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/P1746 离开中山路.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/牛客竞赛-round53-F-失去一种方向穿墙-vis优化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/BFS/牛客竞赛-round53-F-失去一种方向穿墙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/寻路问题/深さ優先探索.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/排列类题目/老子的全排列那.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/搜索回溯/B3622 枚举子集（递归实现指数型枚举）.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/搜索回溯/P2392kkksc03考前临时抱佛脚.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/染色题-洪水题/P1162 [染色法][DFS]填涂颜色.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/染色题-洪水题/P1506 [染色法][DFS][改进]拯救oibh总部.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/染色题-洪水题/P1506_1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/染色题-洪水题/P1506_1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/B3624-combinations-猫粮规划.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/B3624-dfs-猫粮规划.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/B3624-全WA-猫粮规划.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/P1135-奇怪的电梯.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/P1157-itertools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P1460-USACO2.1健康的荷斯坦奶牛.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P1460-dfs-USACO2.1健康的荷斯坦奶牛 copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/组合类题目/可重复遍历组合问题/P2036-可重复遍历组合问题-COCI2008-2009-2-PERKET.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/连通块题/CF690D1The Wall (easy).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/连通块题/CF690D1[栈][DFS]The Wall (easy).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/连通块题/P1451-栈优化-求细胞数量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/连通块题/P1596 [USACO10OCT][DFS] Lake Counting S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法1-7搜索/DFS_/连通块题/P1596-栈优化-Lake_Counting_S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-1584-Circular-Sequence-字典序最小输出/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-1584-Circular-Sequence-字典序最小输出/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-1584-Circular-Sequence-字典序最小输出/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-1584-Circular-Sequence-字典序最小输出/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../紫书-3-字符串-数组/UVA-227-Puzzle/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2kSwaY7rbl4NPoCyKOKdQVKeJ25" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="D" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="D" RUN_TARGET_NAME="D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41afac25-352b-49bd-9c44-775de834a57e" name="Changes" comment="" />
+      <created>1723290349569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723290349569</updated>
+      <workItem from="1723290350912" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
