@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2895__USACO08FEB__Meteor_Shower_S",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2895__USACO08FEB__Meteor_Shower_S::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2895__USACO08FEB__Meteor_Shower_S-Debug-7e35784f9969d82a6e2d.json",
+					"name" : "P2895__USACO08FEB__Meteor_Shower_S",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_7_\u641c\u7d22/bfs/P2895 [USACO08FEB] Meteor Shower S/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u7b97\u6cd51_7_\u641c\u7d22/bfs/P2895 [USACO08FEB] Meteor Shower S"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,70 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+using namespace std;
+int n,vis[25],l,r,maxSize=0;
+string ss[25];
+char c;
+
+//      选取第x个单词
+void dfs(string s,int cnt) {
+    //                     函数没有隐式类型转换
+    maxSize=max(maxSize,static_cast<int>(s.size()));
+    for(int j=0;j<n;j++) {
+        if(vis[j]<=0) {
+            return;
+        }
+        cout<<cnt<<" : "<<s<<endl;
+        if(cnt==0 && ss[j][0]==c) {
+            vis[j]-=1;
+            dfs(ss[j],cnt+1);
+            vis[j]+=1;
+        }else {
+            // 以下是在merge
+            l=s.size()-1,r=0;
+            bool is_sp_break=false;
+            while (true){
+                // 头和尾就不一样，不能merge在一起，然后记得这里不要return，因为return的话相当于这一层都不扫了
+                if(s[l]!=ss[j][r] && l==s.size()-1 && r==0) {
+                    is_sp_break=true;
+                    break;
+                } else if(s[l]!=ss[j][r]) {
+                    break;
+                    // 判断两字符串之间存不存在包含关系，理论上来说只需要==，这里的不等号是为了鲁棒性加的
+                } else if(l<=0 or r>=ss[j].size()){
+                    is_sp_break=true;
+                    break;;
+                } else {
+                    l-=1,r+=1;
+                }
+            }
+            if(!is_sp_break) {
+                string one(&s[0],&s[s.size()]);
+                string two(&ss[j][r],&ss[j][ss[j].size()]);
+                cout<<cnt<<" one: "<<one<<" two: "<<two<<endl;
+                vis[j]-=1;
+                dfs(one+two,cnt+1);
+                vis[j]+=1;
+            }
+        }
+    }
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);cout.tie(0);
+    cin>>n;
+    for(int i=0;i<n;i++) {
+        cin>>ss[i];
+    }
+    cin>>c;
+    for(int i=0;i<25;i++) {
+        vis[i]=2;
+    }
+    // 初始化以及输入
+
+        //  这个s不重要，随便传个0，因为cnt==0时我都不会用到s。
+    dfs("0",0);
+    cout<<maxSize<<endl;
+}
+// 这个代码的主要问题是两string merge 有点问题

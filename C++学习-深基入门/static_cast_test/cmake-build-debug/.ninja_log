@@ -1,0 +1,5 @@
+# ninja log v6
+1	329	1723778319603627807	CMakeFiles/static_cast_test.dir/main.cpp.o	93e406e499ad7b38
+331	411	1723778319933303890	static_cast_test	77724653b6cb322
+4	322	1723778332362170617	CMakeFiles/static_cast_test.dir/main.cpp.o	93e406e499ad7b38
+323	349	1723778332681442778	static_cast_test	77724653b6cb322
