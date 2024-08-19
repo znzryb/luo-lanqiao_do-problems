@@ -1,0 +1,36 @@
+#include <iostream>
+#include <set>
+using namespace std;
+const int maxn=32767+10;
+int n,l,r,osl,osr;long long int summ;
+
+struct OrderSale{
+    int time;
+    int sale;
+}os[maxn];
+
+bool comp(OrderSale a,OrderSale b) {
+    if(a.sale!=b.sale) return a.sale<b.sale;
+}
+
+int main() {
+    cin>>n;
+    for(int i=0;i<n;i++) {
+        cin>>os[i].sale;
+        os[i].time=i;
+    }
+    sort(&os[0],&os[n],comp);
+    // for(int i=0;i<n;i++) {
+    //     cout<<os[i].sale<<" "<<os[i].time<<endl;
+    // }
+    for(int i=0;i<n;i++) {
+        l=i-1;r=i+1;
+        while (true) {
+            if(l>=0 && r<n) {
+
+            }
+            if()
+        }
+    }
+    return 0;
+}

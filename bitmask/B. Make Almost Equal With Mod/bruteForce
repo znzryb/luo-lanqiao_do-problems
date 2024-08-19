@@ -1,0 +1,34 @@
+#include <iostream>
+#include <unordered_set>
+using namespace std;
+int t,n;unsigned long long int summ,aa[105],maxa=0;
+unordered_set<unsigned long long int> diff;
+int main()
+{
+    cin>>t;
+    while(t--) {
+        cin>>n;
+        for(int i=1;i<=n;i++) {
+            cin>>aa[i];
+            maxa=max(aa[i],maxa);
+        }
+        for(int i=1;i<=maxa+1;i++) {
+            bool valid=true;
+            diff={};
+            for(int j=1;j<=n;j++) {
+                diff.insert(aa[j]%i);
+                if(diff.size()>2) {
+                    valid=false;
+                    break;
+                }
+            }
+            if(valid && diff.size()==2) {
+                cout<<i<<endl;
+                break;
+            }
+        }
+    }
+    return 0;
+}
+
+// is right but TLE in test 3   https://codeforces.com/problemset/submission/1909/277134163

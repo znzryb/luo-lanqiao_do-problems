@@ -1,0 +1,57 @@
+#include <iostream>
+#include <cmath>
+// https://codeforces.com/problemset/problem/1991/B
+using namespace std;
+const int maxn=1e5+10;
+unsigned long long int t,n,bb[maxn],aa[maxn];
+bool isbreak;
+int main() {
+    cin>>t;
+    while (t--) {
+        cin>>n;
+        isbreak=false;
+        fill(begin(bb),end(bb),0);
+        fill(begin(aa),end(aa),0);
+        for(int i=0;i<n-1;i++) {
+            cin>>bb[i];
+        }
+        // n==2时进行一个特判
+        if(n==2) {
+            cout<<bb[0]<<" "<<bb[0]<<endl;
+            continue;
+        }
+        for(int i=0;i<n-1-1;i++) {
+            aa[i+1]=bb[i]|bb[i+1];
+        }
+        for(int i=log2(bb[0])*pow(2,log2(bb[0]));i<=(log2(bb[0]+1)+1)*pow(2,log2(bb[0])+1);i++) {
+            if(i&aa[1]==bb[0]) {
+                aa[0]=i;
+                isbreak=true;
+                break;
+            }
+        }
+        if(!isbreak) {
+            cout<<-1<<endl;
+            continue;;
+        }
+        isbreak=false;
+        for(int i=log2(bb[n-2])*pow(2,log2(bb[n-2]));i<=(log2(bb[n-2])+1)*pow(2,log2(bb[n-2])+1);i++) {
+            if(i&aa[n-2]==bb[n-2]) {
+                aa[n-1]=i;
+                isbreak=true;
+                break;
+            }
+        }
+        if(!isbreak) {
+            cout<<-1<<endl;
+            continue;;
+        }
+        for(int i=0;i<n;i++) {
+            cout<<aa[i]<<" ";
+        }
+        cout<<endl;
+    }
+    // t=802&8106;
+    // std::cout << t << std::endl;
+    return 0;
+}

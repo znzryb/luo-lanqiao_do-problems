@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1551_relative",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1551_relative::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1551_relative-Debug-f93d26ce8ba107fd960d.json",
+					"name" : "P1551_relative",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1551_relative/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1551_relative"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "B__Make_Almost_Equal_With_Mod",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B__Make_Almost_Equal_With_Mod::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B__Make_Almost_Equal_With_Mod-Debug-4e5081bfd7b7a85a3588.json",
+					"name" : "B__Make_Almost_Equal_With_Mod",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/bitmask/B. Make Almost Equal With Mod/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/bitmask/B. Make Almost Equal With Mod"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

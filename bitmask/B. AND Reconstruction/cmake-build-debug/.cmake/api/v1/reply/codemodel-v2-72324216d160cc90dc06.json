@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "B__AND_Reconstruction",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B__AND_Reconstruction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B__AND_Reconstruction-Debug-ad7a87e10332d5433f22.json",
+					"name" : "B__AND_Reconstruction",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/bitmask/B. AND Reconstruction/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/bitmask/B. AND Reconstruction"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
