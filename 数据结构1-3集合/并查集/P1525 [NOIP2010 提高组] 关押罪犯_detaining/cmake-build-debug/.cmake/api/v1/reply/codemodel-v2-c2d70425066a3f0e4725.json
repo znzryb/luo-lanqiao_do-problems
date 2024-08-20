@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1525__NOIP2010____detaining",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1525__NOIP2010____detaining::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1525__NOIP2010____detaining-Debug-1dfa873ea2b6df04953d.json",
+					"name" : "P1525__NOIP2010____detaining",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1525 [NOIP2010 \u63d0\u9ad8\u7ec4] \u5173\u62bc\u7f6a\u72af_detaining/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1525 [NOIP2010 \u63d0\u9ad8\u7ec4] \u5173\u62bc\u7f6a\u72af_detaining"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

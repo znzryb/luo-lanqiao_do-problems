@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1892__BOI2003___ReserveSet",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1892__BOI2003___ReserveSet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1892__BOI2003___ReserveSet-Debug-db1d9460f711c9b3666c.json",
+					"name" : "P1892__BOI2003___ReserveSet",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1892 _BOI2003]_\u56e2\u4f19_ReserveSet/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u6570\u636e\u7ed3\u67841-3\u96c6\u5408/\u5e76\u67e5\u96c6/P1892 _BOI2003]_\u56e2\u4f19_ReserveSet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
