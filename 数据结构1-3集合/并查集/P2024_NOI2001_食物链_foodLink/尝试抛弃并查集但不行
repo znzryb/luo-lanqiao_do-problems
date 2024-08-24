@@ -1,0 +1,50 @@
+// WA了几次以后我懂了，其实这就是敌人的敌人还是敌人
+#include <iostream>
+#include <map>
+#include <vector>
+#include <set>
+using namespace std;
+const int maxn=5e4+10;
+//        并查集所用的静态列表
+int n,k,x,y,fa[maxn],cnt,op;
+map <int,set<int>> eat;
+int findd(int x) {
+    if(fa[x]==x) {
+        return x;
+    }else {
+        fa[x]=findd(fa[x]);
+        return fa[x];
+    }
+}
+
+int main()
+{
+    cin>>n>>k;
+    cnt=0;
+    for(int i=1;i<=n;i++) {
+        fa[i]=n+1;
+    }
+    for(int i=0;i<k;i++) {
+        cin>>op>>x>>y;
+        if(x>n or y>n) {
+            cnt+=1;
+            continue;
+        }
+        if(op==1) {
+            fa[x]=fa[y]
+        }else {    //  下面是x吃y
+            // 下面几个都是检查是否是假话
+            if(x==y) {
+                cnt+=1;
+                continue;
+            }
+        }
+    }
+    cout<<cnt<<endl;
+    return 0;
+}
+// hack数据
+// 3 3
+// 2 3 2
+// 2 2 1
+// 1 1 3

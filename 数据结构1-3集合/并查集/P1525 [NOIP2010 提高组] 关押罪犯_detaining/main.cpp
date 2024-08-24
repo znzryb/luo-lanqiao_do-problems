@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 const int maxn=20000+10,maxm=100000+10;
-int n,m;
+int n,m,fa[2*maxn];
 
 struct threeData {
     int a,b;
@@ -14,6 +14,7 @@ bool comp(threeData a,threeData b) {
     if(a.c!=b.c) return a.c>b.c;
 }
 
+
 int main()
 {
     ios::sync_with_stdio(false);
@@ -23,7 +24,9 @@ int main()
         cin>>abc[i].a>>abc[i].b>>abc[i].c;
     }
     sort(&abc[0],&abc[m],comp);
-    for()
+    for(int i=0;i<m;i++) {
+
+    }
 
     return 0;
 }

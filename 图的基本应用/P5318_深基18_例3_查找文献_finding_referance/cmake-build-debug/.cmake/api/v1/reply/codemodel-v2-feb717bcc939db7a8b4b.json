@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P5318_18_3__finding_referance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P5318_18_3__finding_referance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5318_18_3__finding_referance-Debug-81085b7aad47c7581007.json",
+					"name" : "P5318_18_3__finding_referance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P5318_\u6df1\u57fa18_\u4f8b3_\u67e5\u627e\u6587\u732e_finding_referance/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P5318_\u6df1\u57fa18_\u4f8b3_\u67e5\u627e\u6587\u732e_finding_referance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
