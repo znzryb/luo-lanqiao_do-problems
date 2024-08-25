@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2661__NOIP2015___message",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2661__NOIP2015___message::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2661__NOIP2015___message-Debug-7b4cf08f7b5731da1552.json",
+					"name" : "P2661__NOIP2015___message",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P2661 _NOIP2015_\u63d0\u9ad8\u7ec4_\u4fe1\u606f\u4f20\u9012_message/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P2661 _NOIP2015_\u63d0\u9ad8\u7ec4_\u4fe1\u606f\u4f20\u9012_message"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
