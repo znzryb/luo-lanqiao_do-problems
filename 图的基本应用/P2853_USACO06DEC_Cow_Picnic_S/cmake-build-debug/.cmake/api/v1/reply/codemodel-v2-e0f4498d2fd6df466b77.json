@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2853_USACO06DEC_Cow_Picnic_S",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2853_USACO06DEC_Cow_Picnic_S::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2853_USACO06DEC_Cow_Picnic_S-Debug-6776f829f273979707af.json",
+					"name" : "P2853_USACO06DEC_Cow_Picnic_S",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P2853_USACO06DEC_Cow_Picnic_S/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P2853_USACO06DEC_Cow_Picnic_S"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

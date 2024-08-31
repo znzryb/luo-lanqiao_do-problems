@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a128565b-10fa-4d11-a3d5-fa927af007be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/P1807_最长路_longestRoad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1807_最长路_longestRoad/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P2661 _NOIP2015_提高组_信息传递_message/.idea/P2661 _NOIP2015_提高组_信息传递_message.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1113_杂务_chores/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P1113_杂务_chores/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2661 _NOIP2015_提高组_信息传递_message/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P2661 _NOIP2015_提高组_信息传递_message/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2661 _NOIP2015_提高组_信息传递_message/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../P2661 _NOIP2015_提高组_信息传递_message/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法1_7_搜索/dfs/P1433-rebuild-eatingCheese/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法1_7_搜索/dfs/P1433-rebuild-eatingCheese/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法1_7_搜索/dfs/P1433-rebuild-eatingCheese/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法1_7_搜索/dfs/P1433-rebuild-eatingCheese/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2lN6toa8LePLa1OYWSwRdYAYbCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a128565b-10fa-4d11-a3d5-fa927af007be" name="Changes" comment="" />
+      <created>1725008403195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725008403195</updated>
+      <workItem from="1725008406060" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
