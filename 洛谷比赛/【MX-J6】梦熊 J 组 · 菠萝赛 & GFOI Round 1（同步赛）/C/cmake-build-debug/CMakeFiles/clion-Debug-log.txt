@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/洛谷比赛/【MX-J6】梦熊 J 组 · 菠萝赛 & GFOI Round 1（同步赛）/C" -B "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/洛谷比赛/【MX-J6】梦熊 J 组 · 菠萝赛 & GFOI Round 1（同步赛）/C/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/洛谷比赛/【MX-J6】梦熊 J 组 · 菠萝赛 & GFOI Round 1（同步赛）/C/cmake-build-debug
